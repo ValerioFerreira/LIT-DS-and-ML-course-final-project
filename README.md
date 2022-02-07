@@ -1,2 +1,3 @@
-# portfolioValerio
-Portfólio destinado aos meus projetos pessoais 
+# Portfolio - Valerio
+
+Portfolio destined to my personal projects
