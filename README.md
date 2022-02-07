@@ -1,2 +1,2 @@
 # portfolioValerio
-Portfólio destinado aos meus projetos Data Science
+Portfólio destinado aos meus projetos pessoais 
